@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Version>1.0.3</Version>
+    <Authors>Fredrik Blank</Authors>
+    <Description>Wrapper around System.IO.Compression</Description>
+    <PackageProjectUrl>https://github.com/freshe/ZipidiZip</PackageProjectUrl>
+    <PackageTags>zip compression net core dotnet standard</PackageTags>
+    <AssemblyVersion>1.0.0.3</AssemblyVersion>
+    <FileVersion>1.0.0.3</FileVersion>
+  </PropertyGroup>
+</Project>
